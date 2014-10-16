@@ -1,0 +1,55 @@
+div {
+    width: 300px;
+    height: 600px;
+}
+
+div div {
+    width: 44%;
+    height: 45%;
+    outline: 1px solid;
+    border: 5px solid navy;
+    float: left;
+}
+
+.circle{width:100px;
+        height:100px;
+        border-radius:50%;
+        border: 15px solid #FFF;
+		font-size:20px;color:#fff;
+		line-height:100px;
+		text-align:center;
+		background:#000;
+		position: absolute;
+		left: 7%;
+		top: 56%;
+		outline: 0px;
+	
+}
+
+.TopL{
+ background-color: #b0c4de;
+
+
+}
+.TopR{
+ background-color: #b0c4de;
+
+}
+.BotL{
+ background-color: #b0c4de;
+
+}
+.BotR{
+ background-color: #b0c4de;
+
+}
+
+.SpaceW{
+    width: 2%;   
+}
+
+.SpaceH{
+    width: 96.5%;
+    height:1%    
+
+}
